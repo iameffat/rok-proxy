@@ -1,0 +1,8 @@
+{
+  "name": "rok-proxy",
+  "version": "1.0.0",
+  "description": "A simple proxy to fetch og:image and og:title",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
